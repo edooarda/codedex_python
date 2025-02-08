@@ -30,4 +30,4 @@ else:
 
 d_weight= e_weight * r_gravity
 
-print("Your Weight on", planet_name, "is", d_weight)
+print(f"Your Weight on {planet_name} is {d_weight}")
