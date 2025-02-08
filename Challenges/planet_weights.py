@@ -31,3 +31,5 @@ else:
 d_weight= e_weight * r_gravity
 
 print(f"Your Weight on {planet_name} is {d_weight}")
+
+# https://www.geeksforgeeks.org/python-string-interpolation/
